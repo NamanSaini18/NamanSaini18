@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/namansaini45" target="blank"><img src="https://img.shields.io/twitter/follow/namansaini45?logo=twitter&style=for-the-badge" alt="namansaini45" /></a> </p>
 
-- 🔭 I’m currently working on [Java,DSA and Full Stack Development](https://github.com/NamanSaini18/DSA_JAVA)
+- 🔭 I’m currently working on [Java, DSA and Full Stack Development](https://github.com/NamanSaini18/DSA_JAVA)
 
-- 🌱 I’m currently learning **DSA,Full Stack Development and Computer Science.**
+- 🌱 I’m currently learning **DSA, Full Stack Development, and Computer Science.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NamanSaini18](https://github.com/NamanSaini18)
 
@@ -21,9 +21,7 @@
 
 - 📫 How to reach me **saininaman1103@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1r7aDjwxyzWwd5_zUvazFQK5Q2qd0sUaP/view?usp=sharing](https://drive.google.com/file/d/18tI4yy48hlIwifHpi-vEJb0OXf2fyI-C/view?usp=drive_link)
-
-- ⚡ Fun fact **I am pretty good in General Knowledge and Current Affairs**
+- ⚡ Fun fact **I am pretty good at General Knowledge and Current Affairs**
   [![An image of @namansaini18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/namansaini18)](https://holopin.io/@namansaini18)
 
 <h3 align="left">Connect with me:</h3>
